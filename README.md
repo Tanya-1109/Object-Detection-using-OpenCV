@@ -1,5 +1,4 @@
 # Object-Detection-using-OpenCV
-# Detcting Objects Through Webcam of your device
 This program helps to detect any moving objects in the frame which further hepls us to understand if any object is moving out of the frame or not.
 
 # Prerequisites
